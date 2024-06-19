@@ -1,0 +1,229 @@
+{
+  "measure": {
+    "dimension": {
+      "spacing": {
+        "100": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 8
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "200": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 16
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "300": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 24
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "400": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 32
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "500": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 40
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "600": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 48
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "700": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 56
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "800": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 64
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        }
+      },
+      "sizing": {
+        "100": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 8
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "200": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 16
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "300": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 24
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "400": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 32
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "500": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 40
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "600": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 48
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "700": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 56
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "800": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 64
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        }
+      }
+    },
+    "opacity": {},
+    "size": {},
+    "space": {},
+    "font-size": {},
+    "line-height": {},
+    "letter-spacing": {},
+    "paragraph-spacing": {},
+    "border-width": {},
+    "border-radius": {},
+    "duration": {},
+    "z-index": {}
+  }
+}
